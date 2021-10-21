@@ -1,0 +1,5 @@
+discord.py
+requests
+bs4
+beautifulsoup4
+imap_tools

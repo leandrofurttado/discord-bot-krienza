@@ -1,0 +1,99 @@
+Filipe Deschamps Newsletter
+
+Notícias que chamaram a nossa atenção nesta quinta-feira:
+
+China dá mais detalhes sobre base que planeja instalar na Lua: o
+estabelecimento de uma infraestrutura de comando, energia e
+comunicação da “Estação de Pesquisa Lunar Internacional” (ILRS na
+sigla em inglês) terá início até o final da década, com habitat
+para seus taikonautas criado a partir de regolito lunar ou da
+adaptação de tubos de lava. O plano vislumbra habitar a base
+lunar de forma permanente em meados da década de 2030 com
+objetivos de exploração comercial de recursos, observação
+astronômica, entre outros. As informações são do site IEEE
+Spectrum.
+
+Comissão aprova projeto que exige coleta biométrica de torcedores
+em estádios de futebol: o Projeto de Lei 10.089/18 obriga a
+entidade responsável pela organização do evento a instalar
+aparelhos de identificação biométrica para identificar torcedores
+impedidos judicialmente de frequentar estádios esportivos. As
+informações são do site Convergência Digital.
+
+Cientistas criam a menor estrutura voadora do mundo: o microchip
+alado, do tamanho de um grão de areia, possui tecnologia
+ultra-miniaturizada, incluindo sensores, fonte de energia,
+antenas para comunicação sem fio e memória para armazenamento de
+dados. O dispositivo tem o potencial de monitorar doenças
+transmitidas pelo ar, contaminação ambiental e poluição do ar. As
+informações são do site ScienceDaily.
+
+Relatório do Marco Legal da Inteligência Artificial é finalizado:
+o texto determina a regulação da tecnologia para “apenas quando
+absolutamente necessário”, facilitando a inovação na área. Além
+disso, a participação social e interdisciplinar será fundamental
+para a adoção de normas que impactem o desenvolvimento e a
+operação desses sistemas. O relatório agora vai para o Plenário
+da Câmara dos Deputados. As informações são do site Convergência
+Digital.
+
+Navegador Brave lança “Brave Talk”, sistema de videoconferência
+focado em privacidade: apesar das ligações precisarem ser
+iniciadas pelo Brave, outras pessoas poderão participar das
+chamadas de vídeo por qualquer outro navegador. O serviço não
+salva nenhum tipo de metadado e utiliza como base o “Jitsi as a
+Service”, plataforma de videoconferência de código aberto. As
+informações são do blog do Brave.
+
+YouTube está testando novo recurso que permite baixar vídeos para
+o computador: até o dia 19 de outubro, todos os vídeos na
+plataforma poderão ser baixados por padrão, mas o recurso estará
+disponível apenas para usuários Premium. O YouTube, no entanto,
+não fornecerá acesso aos arquivos de vídeo diretamente, que
+poderão ser visualizados apenas através da interface da
+plataforma, mesmo sem conexão com a Internet. As informações são
+do site TechCrunch.
+
+União Europeia propõe USB-C obrigatório em todos os smartphones,
+incluindo iPhones: o objetivo da regra é reduzir desperdícios e
+lixo eletrônico. Além de smartphones, as regras se aplicam a
+outros dispositivos como tablets, fones de ouvido, alto-falantes
+portáteis, consoles de videogame e câmeras. Os fabricantes também
+serão forçados a tornar seus padrões de carregamento rápido
+interoperáveis. As informações são do site The Verge.
+
+Microsoft lança novos dispositivos da linha Surface: o destaque
+do evento ficou com o design do novo “Surface Laptop Studio”. O
+dispositivo possui três modos de uso, podendo ser utilizado como
+um notebook normal, convertido para o modo “Stage”, no qual a
+tela cobre o teclado do dispositivo, e no modo “Studio”, vira um
+tablet. Além dessas funções, uma caneta stylus pode ser conectada
+magneticamente na parte inferior do dispositivo. As informações
+são do blog da Microsoft.
+
+A Startup de Hardware que mais cresce no Brasil está contratando
+e esperando por você! Quer impulsionar a sua carreira com muito
+aprendizado, autonomia e liberdade? Então confira as vagas
+disponíveis na TRACTIAN, a startup industrial que mais cresce no
+Brasil. Vagas para todas as áreas, como Art Director, Procurement
+Specialist, Software Engineer, SDR e muito mais: Link Patrocinado
+(
+https://click.convertkit-mail.com/v8ux7pnzpqurhw2547ig/n2hohvhn3d07mof6/aHR0cHM6Ly9jYXJlZXJzLnRyYWN0aWFuLmNvbS8=
+)
+
+Livro gratuito “Melhores Práticas de Arquitetura de Software na
+era da Nuvem”: material de alta qualidade em português, com cada
+capítulo escrito pela referência da área no Brasil. Aplicação
+prática das tecnologias, conceitos e culturas apresentadas como
+Java Efetivo, Clean Code, Domain-Driven Design, Clean
+Architecture e Building Microservices. Baixe o livro
+gratuitamente por aqui: Link Afiliado (
+https://click.convertkit-mail.com/v8ux7pnzpqurhw2547ig/48hvheh0ro8xv0ax/aHR0cHM6Ly93d3cuYmV0cnliZS5jb20vbGl2cm8tYXJxdWl0ZXR1cmEtZGUtc29mdHdhcmU_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPWRlc2NoYW1wcyZ1dG1fY29udGVudD1saXZyb19hcnF1aXRldHVyYQ==
+)
+
+Cancelar inscrição (
+https://unsubscribe.convertkit-mail.com/v8ux7pnzpqurhw2547ig ) |
+Indicar Newsletter (
+https://click.convertkit-mail.com/v8ux7pnzpqurhw2547ig/wnh2hghrwz60nwi7/aHR0cHM6Ly9maWxpcGVkZXNjaGFtcHMuY29tLmJyL25ld3NsZXR0ZXI=
+)
+Rua Antônio da Veiga, 495, Blumenau, SC, 89012-500
