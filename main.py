@@ -313,4 +313,4 @@ async def on_member_join(member):
     await canal.send("Seja bem-vindo, " + member.mention + "!" + " não repara a bagunça.")
 
 
-client.run("NzI0NzIwNzY4NDI4MDE1NzE4.XvESzw.TN5juLWCEgxPMOlVVbrPcK1SLYs")
+client.run("SEU-TOKEN-AQUI")
